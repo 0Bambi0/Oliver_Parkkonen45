@@ -1,0 +1,35 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.navbar-nav {
+    overflow: hidden;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: none;
+    overflow: hidden;
+  }
+
+  .navbar-nav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+   justify-content: center;
+  }
+
+  .navbar-nav >li {
+    list-style: none;
+    justify-content: center;
+  }
+
+  .navbar-nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .navbar-nav a.active {
+     color: white;
+  }
