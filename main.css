@@ -45,3 +45,7 @@ h1 {
   .tabl {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
+
+  figure {
+    width: 200px;
+  }
