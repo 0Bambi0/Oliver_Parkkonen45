@@ -43,7 +43,7 @@
       background-color: #dfdfdf;
       border-right: 3px solid #333;
       width: 300px;
-      height: 100000;
+      height: none;
       overflow: hidden;
       padding: 10px;
   }
