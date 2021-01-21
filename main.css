@@ -33,3 +33,15 @@ h1 {
   .navbar-nav a.active {
      color: white;
   }
+
+  .footer {
+    padding: 2px;
+    text-align: center;
+    background-color:rosybrown;
+    overflow: hidden;
+    font-family: 'Times New Roman', Times, serif
+  }
+
+  .tabl {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
